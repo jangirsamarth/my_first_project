@@ -1,4 +1,3 @@
 print("hi ")
 
-print('hi debu')
-print
+import math
